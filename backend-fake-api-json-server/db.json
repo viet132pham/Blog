@@ -1,0 +1,188 @@
+{
+  "blogs": [
+    {
+      "title": "Thám tử lừng danh Conan",
+      "author": "Aoyama Ghosho",
+      "content": "LoremIpsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": [
+        "trinh thám",
+        "kinh dị"
+      ],
+      "id": 1
+    },
+    {
+      "title": "Doraemon",
+      "author": "Fujiko F. Fujio",
+      "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "category": [
+        "hài",
+        "công nghệ"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Đảo hải tặc",
+      "author": "Oda Eiichiro",
+      "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,comes from a line in section 1.10.32.",
+      "category": [
+        "hài",
+        "công nghệ",
+        "thiên nhiên",
+        "thể thao",
+        "âm nhạc"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Thiên nhiên hùng vĩ",
+      "author": "D Vinci",
+      "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "category": [
+        "tin tức",
+        "thiên nhiên",
+        "du lịch"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Người hùng thầm lặng",
+      "author": "D Vinci",
+      "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "category": [
+        "tin tức",
+        "thể thao"
+      ],
+      "id": 5
+    },
+    {
+      "category": [
+        "trinh thám",
+        "hài",
+        "kinh dị",
+        "công nghệ",
+        "thể thao"
+      ],
+      "title": "Life",
+      "author": "Việt Phạm",
+      "content": "Hôm nay tôi đi làm ...",
+      "id": 6
+    },
+    {
+      "id": 8,
+      "title": "Một con vịt",
+      "author": "test",
+      "content": "Một con vịt xòe ra 2 cái cánh, nó kêu rằng quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác quác",
+      "category": [
+        "âm nhạc"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "dscd",
+      "author": "test",
+      "content": "sa",
+      "category": [
+        "tesst"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "trinh thám",
+      "image": "https://www.reader.com.vn/uploads/images/sach-truy-tim-ky-uc-dinh-mac.jpeg",
+      "id": 1
+    },
+    {
+      "name": "hài",
+      "image": "https://tiki.vn/blog/wp-content/uploads/2023/07/stt-hai-huoc-cau-like-chem-gio.jpg",
+      "id": 2
+    },
+    {
+      "name": "kinh dị",
+      "image": "https://cdn.popsww.com/blog/sites/2/2022/09/truyen-kinh-di-ngan.jpg",
+      "id": 3
+    },
+    {
+      "name": "công nghệ",
+      "image": "https://funix.edu.vn/wp-content/uploads/2021/08/luong-cao.jpg?x57535",
+      "id": 4
+    },
+    {
+      "name": "tin tức",
+      "image": "https://muatheme.com/wp-content/uploads/2019/09/theme-wordpress-tin-tuc-3.jpg",
+      "id": 5
+    },
+    {
+      "name": "thiên nhiên",
+      "image": "https://3.bp.blogspot.com/-hn27PECj7uQ/WgdzWyjXr9I/AAAAAAACweE/jNIcuw2h0IAZRUao9HuolAfRrcAcEJWaQCLcBGAs/w680/thac-ban-goc.jpg",
+      "id": 6
+    },
+    {
+      "name": "thể thao",
+      "image": "https://myshoes.vn/image/cache/catalog/2022/blog/5-mon-thao-dien-ra-tren-mat-dat-pho-bien-nhat-2-1140x600w.jpg",
+      "id": 7
+    },
+    {
+      "name": "du lịch",
+      "image": "https://res.klook.com/image/upload/q_85/c_fill,w_750/v1681121150/blog/mxgtdb1buw2hxvgpwh8i.jpg",
+      "id": 8
+    },
+    {
+      "name": "sức khỏe",
+      "image": "https://vinmec-prod.s3.amazonaws.com/images/20211030_063215_302918_cham-soc-suc-khoe-t.max-1800x1800.jpg",
+      "id": 9
+    },
+    {
+      "name": "âm nhạc",
+      "image": "https://toidaypiano.com/wp-content/uploads/2022/05/Blue-White-Simple-Financial-Tips-Blog-Banner-2000x1200.png",
+      "id": 10
+    },
+    {
+      "name": "tesst",
+      "image": "",
+      "id": 11
+    }
+  ],
+  "user": [
+    {
+      "username": "test1",
+      "password": "test1",
+      "id": 1
+    },
+    {
+      "username": "test2",
+      "password": "test2",
+      "id": 2
+    },
+    {
+      "username": "test3",
+      "password": "test3",
+      "id": 3
+    },
+    {
+      "username": "test4",
+      "password": "test4",
+      "id": 4
+    },
+    {
+      "username": "test5",
+      "password": "test5",
+      "id": 5
+    },
+    {
+      "username": "test6",
+      "password": "test6",
+      "id": 6
+    },
+    {
+      "username": "test7",
+      "password": "test7",
+      "id": 7
+    },
+    {
+      "username": "test8",
+      "password": "test8",
+      "id": 8
+    }
+  ]
+}

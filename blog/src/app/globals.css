@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles/pagination.css */
+.pagination {
+    @apply flex justify-center;
+    list-style: none;
+}
+.pagination li {
+    @apply mx-[5px] my-0;
+}
+.pagination a {
+    @apply border rounded no-underline text-[#333] transition-[background-color] duration-[0.3s] ease-[ease-in-out] px-4 py-2 border-solid border-[#ccc] hover:bg-blue-400 hover:text-white;
+}
+  
